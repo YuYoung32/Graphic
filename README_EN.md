@@ -13,9 +13,9 @@ Randomly generate graphics like this:
 
 1920*1080
 
-![pic1](README_EN.assets/pic1.png)
+![pic1](https://github.com/YuYoung32/Graphic/blob/master/pic1.png)
 
-![pic2](README_EN.assets/pic2.png)
+![pic2](https://github.com/YuYoung32/Graphic/blob/master/pic2.png)
 
 ## Usage
 
