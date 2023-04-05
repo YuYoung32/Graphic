@@ -1,4 +1,12 @@
-document.addEventListener('keydown', draw);
+// 点击或者Enter键绘制
+document.addEventListener('keydown', event=>{
+    if(event.code === "Enter"){
+        draw();
+    }
+});
+document.addEventListener('click', event=>{
+    draw();
+});
 
 function draw() {
     var startPoints = [{x: 200, y: -500}, {x: 0, y: -400}, {x: 0, y: 0}];//各个图形的起始点，从底层到上层
